@@ -1,6 +1,6 @@
 <h2>👋 Hello, I’m Miruna </h2>
 
-📱 Passionate Mobile Developer | 🚀 Lifelong Learner
+📱 Passionate self-learning Mobile Developer | 🚀 Lifelong Learner
 
 <br>
 
