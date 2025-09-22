@@ -4,8 +4,6 @@
 
 <br>
 
-  🌟 About Me -> I find my happy place where creativity meets logic. I love dreaming up an intuitive design just as much as I enjoy rolling up my sleeves to code it into a finished product.
-
 🛠️ Building personal projects to explore new tools, frameworks, and architectures.<br>
 🎯 Focused on mobile development (Flutter enthusiast).<br>
 🌱 Always experimenting and growing in the fascinating world of software. <br>
