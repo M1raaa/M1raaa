@@ -4,9 +4,9 @@
 
 <br>
 
-🛠️ Building personal projects to explore new tools, frameworks, and architectures.<br>
+🛠️ Exploring AI tools and developing personal projects.<br>
 🎯 Focused on mobile development (Flutter enthusiast).<br>
-🌱 Always experimenting and growing in the fascinating world of software. <br>
+🌱 Always experimenting and learning. <br>
 
  🛠️ Tech Stack
 <h5>
